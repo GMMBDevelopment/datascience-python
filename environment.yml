@@ -13,6 +13,7 @@ dependencies:
 - cloudpickle=1.2.2
 - cython=0.29.15
 - dask=2.10.1
+- defusedxml=0.6.0
 - feather-format=0.4.0
 - glmnet=2.1.1
 - ipython=7.12.0
