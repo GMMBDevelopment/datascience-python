@@ -54,11 +54,15 @@ dependencies:
   - civisml-extensions==0.2.1
   - dropbox==9.4.0
   - ftputil==3.4
+  - ffmpeg>=1.4
   - gcsfs
   - google-cloud-bigquery
   - google-cloud-storage
+  - google-cloud-speech
+  - moviepy>=1.0.3
   - muffnn==2.3.1
   - pubnub==4.3.0
   - pysftp==0.2.9
   - requests-toolbelt==0.9.1
   - tensorflow==1.15.4
+  - tinytag>=1.5.0
