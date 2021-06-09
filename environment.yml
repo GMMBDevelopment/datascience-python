@@ -59,6 +59,7 @@ dependencies:
   - google-cloud-bigquery
   - google-cloud-storage
   - google-cloud-speech
+  - google-cloud-vision
   - moviepy>=1.0.3
   - muffnn==2.3.1
   - pubnub==4.3.0
